@@ -39,10 +39,13 @@
 
 <ul>
   <li>
-    <strong>Sem tags HTML ou css</strong>!: Como o React Native não constrói interfaces híbridas, mas nativas, as tags html e o próprio css não funcionam aqui!
+    <strong>Sem tags HTML ou css</strong>: Como o React Native não constrói <a href="https://pontocode.com.br/novidades/voce-sabe-o-que-e-desenvolvimento-hibrido/">interfaces híbridas</a>, mas nativas, as tags html e o próprio css não funcionam aqui!
   </li>
+
+  <img src=".github/tony-stark.gif" width="300px"/>
+
   <li>
-    <strong>Seus próprios componentes</strong>: A boa notícitia, pra que se desanimou com o último item, é que as tags são utlizadas da mesma forma! Porém, temos de utilizar componentes nativos, como base.
+    <strong>Seus próprios componentes</strong>: A boa notícia, pra que se desanimou com o último item, é que as tags são utlizadas da mesma forma! Porém, temos de utilizar componentes nativos, como base.
 
   ```javascript
     import React from 'react';  //  ainda é necessário fazer isso
