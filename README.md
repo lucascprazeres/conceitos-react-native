@@ -6,7 +6,7 @@
   <p align="center">
   <img src="https://img.shields.io/badge/tech-mobile-ff69b4" />
 
-  <a href="https://reactjs.org/">
+  <a href="https://reactnative.dev/">
     <img src="https://img.shields.io/badge/framework-React%20Native-brightgreen" />
   </a>
 
@@ -125,7 +125,7 @@
   Se você deseja sugerir alguma mudança, basta fazer o seguinte:
 
 ```bash
-  #  execute os mesmos passos da sessão anterior, mas dessa vez, crie a sua branch
+  #  faça um fork do repositório, depois
   git checkout -b minha-branch
 
   # faça commit  das suas alterações e, em seguida, realize um pull request
